@@ -1,5 +1,4 @@
 # project-day-8
-# project-day-2
 # File Sorter by Date
 
 A **Python script** that organizes files into **Today, This_Week, and Older** folders based on their last modified date.  
